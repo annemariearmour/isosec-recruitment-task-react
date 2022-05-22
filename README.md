@@ -36,4 +36,4 @@ To help you get started quickly, this repository contains an instance of the [cr
 5. Complete the questions in the [FOLLOW-UP-QUESTIONS.md](FOLLOW-UP-QUESTIONS.md) file (you do not need to do this within the 2 hour window)
 6. Return the completed task to the hiring manager, by either:
    1. Setting the repository to public and supplying the hiring manager with the URL (recommended)
-   2. Sharing the repository with the hiring manager directly (GitHub project -> Settings -> Collaborators)
+   2. Sharing the repository with the hiring manager directly (GitHub project -> Settings -> Collaborators)# isosec task
